@@ -1,0 +1,83 @@
+Text....
+
+https://docs.google.com/forms/d/e/1FAIpQLScKdJLF4o-87x50hJOLOjd9PQxrjbQE1RsnyOFF5oIPz1Jkzg/formResponse
+
+
+
+entry.706507923=999-Name
+
+entry.1726503271=999-Question
+
+entry.1757986714=999-Email
+
+entry.1527127606=999-Discord
+
+
+
+
+
+
+The Main:
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Ask Me Anything</title>
+</head>
+<body>
+
+<a href="newpage.html">Home</a>
+
+
+
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScKdJLF4o-87x50hJOLOjd9PQxrjbQE1RsnyOFF5oIPz1Jkzg/formResponse">
+	<label for="entry.706507923">Name:</label><br>
+	<input type="text" name="entry.706507923" placeholder="Johnny"><br>
+
+	<label for="entry.1726503271">Question:</label><br>
+	<input type="text" name="entry.1726503271" placeholder="Editing Tips?"><br>
+
+	<label for="entry.1757986714">Email:</label><br>
+	<input type="text" name="entry.1757986714" placeholder="Optional"><br>
+
+	<label for="entry.1527127606">Discord:</label><br>
+	<input type="text" name="entry.1527127606" placeholder="Optional"><br>
+
+	<button type="submit">Submit</button>	
+
+
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New Page:
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>newpage</title>
+	
+</head>
+<body>
+
+</body>
+</html>
+
